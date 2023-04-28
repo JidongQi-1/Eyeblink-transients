@@ -1,0 +1,16 @@
+{
+    "schema": 1,
+    "origin": {
+        "identification": "blinktransient",
+        "name": "BlinkTransient",
+        "version": "1.0.0",
+        "description": "BlinkTransient",
+        "author": "BY"
+    },
+    "type_info": {
+        "type": "JOB"
+    },
+    "consoles": [],
+    "additional_info": {
+    }
+}
